@@ -13,6 +13,14 @@
   ],
   "license": "MIT",
   "author": "Niraj Patel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirajpatel/node-lamarzocco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nirajpatel/node-lamarzocco/issues"
+  },
+  "homepage": "https://github.com/nirajpatel/node-lamarzocco#readme",
   "type": "commonjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
