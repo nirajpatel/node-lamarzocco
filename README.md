@@ -2,6 +2,7 @@
 
 A Node.js/TypeScript library to interface with La Marzocco's Home machines. This is a port of the [pylamarzocco](https://github.com/zweckj/pylamarzocco) Python library.
 
+[![npm version](https://img.shields.io/npm/v/node-lamarzocco.svg)](https://www.npmjs.com/package/node-lamarzocco)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/typescript-%5E5.3.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -24,6 +25,10 @@ npm install node-lamarzocco
 - Node.js >= 18.0.0
 
 ## Quick Start
+
+### Finding Your Serial Number
+
+You can find your La Marzocco machine's serial number in the La Marzocco app under the **Settings** tab, or physically on the machine itself. You'll need this serial number to control your machine.
 
 ### Generating Installation Key
 
